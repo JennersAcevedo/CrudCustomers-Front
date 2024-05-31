@@ -1,0 +1,33 @@
+.card {
+    border: 1px solid #1F1F1F;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+    color:#1F1F1F;
+    max-width: 100%;
+    font-size: 3vh;
+  }
+  
+  .lines {
+    margin-bottom: 8px;
+    color:#1F1F1F;
+    font-size: 4vh;
+  }
+  
+  .location{
+    font-size: 3vh;
+  }
+  
+  .buttonDelete:hover {
+    background-color: #5f040d;
+  }
+   .buttonDelete{
+    margin-top: 1vh;
+    border: none;
+    background-color: #c82333;
+    padding: 10px;
+    border-radius: 30px;
+    cursor: pointer;
+    color: white;
+   }
+  
